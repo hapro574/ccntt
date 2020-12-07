@@ -16,7 +16,7 @@
 
 <ul class="slimmenu">
 	<li>
-		<a title="{LANG.Home}" href="{THEME_SITE_HREF}"><em class="fa fa-lg fa-home">&nbsp;</em> <span class="hidden-sm"> {LANG.Home} </span></a>
+		<a title="{LANG.Home}" href="{THEME_SITE_HREF}"><em class="fa fa-lg fa-home">&nbsp;</em> <span class="hidden-sm">  </span></a>
 	</li>
 	<!-- BEGIN: loopcat1 -->
 	<li {CAT1.class}>
@@ -25,9 +25,10 @@
         <!-- END: icon -->
 		<a title="{CAT1.note}" href="{CAT1.link}" {CAT1.target}>{CAT1.title_trim}</a>
 		<!-- BEGIN: cat2 -->
-			<ul>
+			<ul style="display: none; height: 187px; padding-top: 0px; margin-top: 0px; padding-bottom: 0px; margin-bottom: 0px;">
 				{HTML_CONTENT}
 			</ul>
+            <span class="sub-collapser"><i>▼</i></span>
 		<!-- END: cat2 -->
 	</li>
 	<!-- END: loopcat1 -->
