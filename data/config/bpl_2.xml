@@ -8,9 +8,26 @@
   <height>800</height>
   <banners>
     <banners_item>
+      <id>4</id>
+      <title>cổng thông tin bộ giáo dục và đào tạo</title>
+      <clid>1</clid>
+      <file_name>cong-thong-tin-bo-giao-duc-va-dao-tao.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>250</file_width>
+      <file_height>77</file_height>
+      <file_alt></file_alt>
+      <file_click>#</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1607480487</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
       <id>2</id>
       <title>vinades</title>
-      <clid>0</clid>
+      <clid>1</clid>
       <file_name>vinades.jpg</file_name>
       <imageforswf></imageforswf>
       <file_ext>jpg</file_ext>
@@ -21,7 +38,7 @@
       <file_click>http://vinades.vn</file_click>
       <target>_blank</target>
       <bannerhtml></bannerhtml>
-      <publ_time>1453191549</publ_time>
+      <publ_time>1606359771</publ_time>
       <exp_time>0</exp_time>
     </banners_item>
   </banners>
