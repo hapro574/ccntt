@@ -68,12 +68,19 @@
                                     <!-- END: currenttime -->
                                 </div>
                                 <div class="col-xs-24 col-sm-16 col-md-17"></div>
-                                <div class="col-xs-24 col-sm-24 col-md-6 text-right">
-                                    <div class="headerSearch">
-                                        <div class="input-group">
-                                            <input type="text" class="form-control" maxlength="{NV_MAX_SEARCH_LENGTH}" placeholder="{LANG.search}..."><span class="input-group-btn"><button type="button" class="btn btn-info" data-url="{THEME_SEARCH_URL}" data-minlength="{NV_MIN_SEARCH_LENGTH}" data-click="y">
-                                                    <em class="fa fa-search fa-lg"></em>
-                                                </button></span>
+                                <div class="col-xs-24 col-sm-24 col-md-6">
+                                    <div class="col-xs-12 col-sm-12 col-md-10">
+                                        <div class="user_header">
+                                            <a href="#" class="login" title="">Đăng nhập</a>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-14 text-right">
+                                        <div class="headerSearch">
+                                            <div class="input-group">
+                                                <input type="text" class="form-control" maxlength="{NV_MAX_SEARCH_LENGTH}" placeholder="{LANG.search}..."><span class="input-group-btn"><button type="button" class="btn btn-info" data-url="{THEME_SEARCH_URL}" data-minlength="{NV_MIN_SEARCH_LENGTH}" data-click="y">
+                                                        <em class="fa fa-search fa-lg"></em>
+                                                    </button></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
