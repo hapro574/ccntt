@@ -36,11 +36,7 @@
             <div class="text-justify">
                 {NEWSTOP.hometext}
             </div>
-            <!-- BEGIN: adminlink -->
-            <p class="text-right">
-                {ADMINLINK}
-            </p>
-            <!-- END: adminlink -->
+            
         </div>
         <!-- END: content -->
         <ul class="related list-items">

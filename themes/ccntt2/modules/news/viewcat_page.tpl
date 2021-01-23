@@ -38,11 +38,7 @@
                 </ul>
             </div>
             {CONTENT.hometext}
-            <!-- BEGIN: adminlink -->
-            <p class="text-right">
-                {ADMINLINK}
-            </p>
-            <!-- END: adminlink -->
+
         </div>
     </div>
     <!-- END: featured -->
@@ -68,11 +64,7 @@
                 </ul>
             </div>
             {CONTENT.hometext}
-            <!-- BEGIN: adminlink -->
-            <p class="text-right">
-                {ADMINLINK}
-            </p>
-            <!-- END: adminlink -->
+         
         </div>
     </div>
     <!-- END: news -->

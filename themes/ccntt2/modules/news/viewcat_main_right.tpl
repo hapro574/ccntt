@@ -43,7 +43,7 @@
                 </div>
 
                 <!-- BEGIN: related -->
-                <div class="col-md-8">
+                <div class="col-md-8 dasheds ">
                     <ul class="related list-items">
                         <!-- BEGIN: loop -->
                         <li class="{CLASS}">

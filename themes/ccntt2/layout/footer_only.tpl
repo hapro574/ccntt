@@ -5,5 +5,6 @@
         <div id="openidResult" class="nv-alert" style="display:none"></div>
         <div id="openidBt" data-result="" data-redirect=""></div>
         <script src="{NV_BASE_SITEURL}themes/{TEMPLATE}/js/bootstrap.min.js"></script>
+        <script src="{NV_BASE_SITEURL}themes/{TEMPLATE}/js/jsCarousel-2.0.0.js"></script>
 	</body>
 </html>

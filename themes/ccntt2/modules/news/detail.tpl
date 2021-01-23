@@ -141,11 +141,6 @@
 </div>
 <!-- END: keywords -->
 
-<!-- BEGIN: adminlink -->
-<p class="text-center margin-bottom-lg">
-    {ADMINLINK}
-</p>
-<!-- END: adminlink -->
 
 <!-- BEGIN: allowed_rating -->
 <div class="news_column panel panel-default">
@@ -266,7 +261,7 @@
                 <!-- BEGIN: loop -->
                 <li>
                     <em class="fa fa-angle-right">&nbsp;</em>
-                    <h4><a href="{RELATED.link}" {RELATED.target_blank} <!-- BEGIN: tooltip --> data-placement="{TOOLTIP_POSITION}" data-content="{RELATED.hometext_clean}" data-img="{RELATED.imghome}" data-rel="tooltip"<!-- END: tooltip --> title="{RELATED.title}">{RELATED.title}</a></h4>
+                    <a href="{RELATED.link}" {RELATED.target_blank} <!-- BEGIN: tooltip --> data-placement="{TOOLTIP_POSITION}" data-content="{RELATED.hometext_clean}" data-img="{RELATED.imghome}" data-rel="tooltip"<!-- END: tooltip --> title="{RELATED.title}">{RELATED.title}</a>
                     <em>({RELATED.time})</em>
                     <!-- BEGIN: newday -->
                     <span class="icon_new">&nbsp;</span>
