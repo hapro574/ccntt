@@ -15,7 +15,6 @@
             </div>
         </div>
     </div>
-   
 </div>
 <div class=body-bg>
     <div class=wraper>
